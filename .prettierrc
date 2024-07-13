@@ -12,14 +12,7 @@
   "bracketSpacing": true,
   "overrides": [
     {
-      "files": [
-        "*.ts",
-        "*.tsx",
-        "*.css"
-      ],
-      "options": {
-        "parser": "babel-ts"
-      }
+      "files": ["*.ts"]
     }
   ],
   "prettier/prettier": [
